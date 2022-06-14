@@ -1,1 +1,2 @@
 # odin_recipes
+Basically a website which will have a few recipes and links to some websites which will have other recipes. As of now I have learnt the basics of HTML and the linux command line. This expertise of mine allows me to build some basic websites that the common man can comprehend.
